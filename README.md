@@ -1,9 +1,12 @@
 Programme:HAW1
-Module Name:Introductions To Mobile Applicatiopns And Web Developments
+Module Name:Introductions To Mobile Applications And Web Developments
+
 Module Code:IMAD 5112
+
 Date:10 June 2026
 
 Student Number:ST10513751
+
 Student Name:Muhammad Zayaan Kamdar
 
 
