@@ -52,3 +52,21 @@ License
 Right now, the work focuses on building skills through hands-on practice. Learning happens step by step, guided by real tasks. Progress comes slowly, shaped by trial and mistakes along the way.
 Developer
 Built by ﻿Zayaan Kamdar
+
+Screenshots:
+
+Splash Screen
+
+<img width="353" height="646" alt="Screenshot 2026-06-10 142903" src="https://github.com/user-attachments/assets/7d8b600e-bc1f-4b23-b7f5-3e0c3db6f92d" />
+
+Main Screen
+
+<img width="487" height="865" alt="Screenshot 2026-06-10 142726" src="https://github.com/user-attachments/assets/508ed1cc-86a1-490b-87ca-b41888cb54c2" />
+
+Detailed View Screen
+
+<img width="481" height="881" alt="Screenshot 2026-06-10 142805" src="https://github.com/user-attachments/assets/bd339a5b-cb31-4ad2-861c-a7de515aaaa6" />
+
+
+
+
