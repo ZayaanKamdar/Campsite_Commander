@@ -1,3 +1,14 @@
+Programme:HAW1
+Module Name:Introductions To Mobile Applicatiopns And Web Developments
+Module Code:IMAD 5112
+Date:10 June 2026
+
+Student Number:ST10513751
+Student Name:Muhammad Zayaan Kamdar
+
+
+
+
 CampsiteCommander
 A mobile tool built for Android, CampsiteCommander streamlines how campsites handle bookings. Instead of paper logs, it offers a clear digital way to track stays. Reservations become easier to manage, cutting down cluttered processes. Operations run smoother once old methods are swapped out. The app steps in where handwritten ledgers fall short. Digital tracking takes shape without extra complexity.
 Features
