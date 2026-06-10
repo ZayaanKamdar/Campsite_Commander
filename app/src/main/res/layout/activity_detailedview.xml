@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
-    android:background="#1B4332">
+    android:background="#1B4332"
+    android:padding="16dp">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/camping_gear_details"
+        android:text="@string/detailed_inventory"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="#FF9F1C"
@@ -21,23 +20,26 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:fillViewport="true">
 
         <TextView
-            android:id="@+id/txtDisplay"
+            android:id="@+id/txtDetailedInventoryDisplay"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#FFFFFF"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:text="@string/data_is_loading"/>
 
     </ScrollView>
 
     <Button
-        android:id="@+id/btnBack"
+        android:id="@+id/btnBackToMain"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#40916C"
-        android:text="@string/back_to_base"
+        android:text="@string/back_to_main"
         android:textColor="#FFFFFF"
         tools:ignore="TextContrastCheck,VisualLintButtonSize" />
+
 </LinearLayout>

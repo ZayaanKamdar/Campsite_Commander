@@ -8,4 +8,7 @@
     <string name="camping_gear_details">Camping Gear Details</string>
     <string name="back_to_base">Back to Base</string>
     <string name="camp_emoji">⛺</string>
+    <string name="detailed_inventory">Detailed Inventory</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="data_is_loading">Data is loading...</string>
 </resources>
