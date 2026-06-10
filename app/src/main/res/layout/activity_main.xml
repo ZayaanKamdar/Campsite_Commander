@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="#1B4332">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campsite_commander"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#FF9F1C"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/txtTotalItems"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/total_items_packed_0"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#F8F9FA"
+        android:layout_marginBottom="25dp"/>
+
+    <Button
+        android:id="@+id/btnAddGear"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#40916C"
+        android:text="@string/add_gear"
+        android:textColor="#FFFFFF"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/btnViewGear"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#40916C"
+        android:text="@string/view_gear"
+        android:textColor="#FFFFFF"
+        tools:ignore="TextContrastCheck" />
+
+</LinearLayout>

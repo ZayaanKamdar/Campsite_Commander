@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Campsite Commander</string>
+    <string name="campsite_commander">Campsite Commander</string>
+    <string name="total_items_packed_0">Total Items Packed: 0</string>
+    <string name="add_gear">Add Gear</string>
+    <string name="view_gear">View Gear</string>
+    <string name="loading">Loading...</string>
+    <string name="camping_gear_details">Camping Gear Details</string>
+    <string name="back_to_base">Back to Base</string>
+    <string name="camp_emoji">⛺</string>
+</resources>
